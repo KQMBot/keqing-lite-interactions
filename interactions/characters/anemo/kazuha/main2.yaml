@@ -2,18 +2,17 @@ embeds:
   - title: Kaedehara Kazuha
     color: ${ COLORS.ANEMO_GREEN }
     image: 
-      url: ${INFOGRAPHICS.KAZUHA_1}
+      url: ${INFOGRAPHICS.KAZUHA_2}
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Kazuha.png?raw=true"
     description: |-
       *A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.*
 
 buttons:
-
-  - customId: "liveInteraction#characters/anemo/kazuha/main2"
-    label: "Teams"
+  - customId: "liveInteraction#characters/anemo/kazuha/main"
+    label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/kazuha/"
